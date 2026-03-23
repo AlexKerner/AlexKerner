@@ -5,7 +5,7 @@
 
 - 👨‍💻 Curso Técnico em Informática
 - 🌱 Estou estudando desenvolvimento Front-End
-- 👨‍💻 Bacharelado em Engenharia de Software - 2024 | 2028
+- 👨‍💻 Sistemas de Informação - 2026 | 2030
 
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
